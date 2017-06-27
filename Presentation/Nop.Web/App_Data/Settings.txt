@@ -1,0 +1,2 @@
+DataProvider: sqlserver
+DataConnectionString: Data Source=YOGESHWARA-PC\SQLEXPRESS;Initial Catalog=test1;Integrated Security=True;Persist Security Info=False
